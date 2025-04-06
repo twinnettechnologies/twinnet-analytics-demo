@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="ads_btn_height">@dimen/_30sdp</dimen>
+    <dimen name="native_big_height">@dimen/_210sdp</dimen>
+
+
+    <dimen name="ads_btn_border_height">0dp</dimen>
+    <dimen name="ads_btn_radius">@dimen/_15sdp</dimen>
+
+<!--    <dimen name="ads_btn_border_height">0dp</dimen>-->
+<!--    <dimen name="ads_btn_radius">@dimen/_15sdp</dimen>-->
+
+<!--    <dimen name="ads_btn_2_height_top">@dimen/_100sdp</dimen>-->
+<!--    <dimen name="ads_btn_2_height_bottom">@dimen/_100sdp</dimen>-->
+
+
+<!--    <dimen name="ads_bg_radius">@dimen/_5sdp</dimen>-->
+
+
+<!--    <dimen name="banner_height">50dp</dimen>-->
+
+
+
+</resources>

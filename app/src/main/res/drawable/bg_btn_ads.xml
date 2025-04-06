@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/border">
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="180"
+                android:endColor="#411643"
+                android:startColor="#411643" />
+            <corners android:radius="@dimen/ads_btn_radius" />
+        </shape>
+    </item>
+
+
+    <item
+        android:id="@+id/btn"
+        android:bottom="@dimen/ads_btn_border_height"
+        android:left="@dimen/ads_btn_border_height"
+        android:right="@dimen/ads_btn_border_height"
+        android:top="@dimen/ads_btn_border_height">
+
+        <shape android:shape="rectangle">
+            <solid android:color="#411643" />
+            <gradient
+                android:angle="180"
+                android:endColor="#411643"
+                android:startColor="#411643" />
+            <corners android:radius="@dimen/ads_btn_radius" />
+        </shape>
+    </item>
+</layer-list>

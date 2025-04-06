@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="acitivity_title">#232323</color>
+
+    <!--    For ads Btn-->
+    <color name="my_light_primary">#616261</color>
+
+    <color name="ads_btn_color_start">#616261</color>
+    <color name="ads_btn_color_end">#131313</color>
+    <color name="ads_btn_color_border_start">#09FBD3</color>
+    <color name="ads_btn_color_border_end">#FE53BB</color>
+    <color name="ads_btn_color_text">#FFFFFF</color>
+
+
+    <color name="ads_text_color">#FF000000</color>
+</resources>
