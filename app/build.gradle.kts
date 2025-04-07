@@ -19,7 +19,7 @@ android {
 
     buildTypes {
         release {
-            isMinifyEnabled = false
+            isMinifyEnabled = true
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
@@ -51,9 +51,6 @@ dependencies {
 
     ////////////////Google Ads///////////////////
     implementation ("com.google.android.gms:play-services-ads:23.0.0")
-
-
-    implementation("com.google.firebase:firebase-messaging:24.0.0")
 
     implementation("io.github.twinnettechnologies:twinnet-analytics:1.0.1")
 
